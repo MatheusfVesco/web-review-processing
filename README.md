@@ -11,7 +11,4 @@
  - In the review-nlp.py file, i plan to use NLTK to apply some NLP algorithms to the CSV files generated with review-scrape-soup.py.
 
 > The code is still a Work In Progress.
-
-><img src="https://connect-asia.org/wp-content/uploads/WORK-IN-PROGRESS-ICON-01-1024x928.png" alt="drawing" width="200"/>
-
----
+<img src="https://connect-asia.org/wp-content/uploads/WORK-IN-PROGRESS-ICON-01-1024x928.png" alt="drawing" width="200"/>
