@@ -1,5 +1,5 @@
 # web-review-processing
- An application to scrape TripAdvisor pages, retrieve reviews, and apply NLP algorithms on the reviews.
+ An application to scrape TripAdvisor pages, retrieve reviews, and apply NLP algorithms to the reviews.
 
 ---
  - In the review-scrape-soup.py file, i use BeautifulSoup4 to scrape reviews from any TripAdvisor page. As an example, i scraped reviews from:
